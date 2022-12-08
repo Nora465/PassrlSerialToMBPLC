@@ -1,0 +1,13 @@
+{
+	"SP": {
+		"PortName": "COM4",
+		"BaudRate": "9600",
+		"DataBits": "8",
+		"Parity": 	"2", //2:Even - 1:Odd
+		"StopBits": "1"		
+	},
+	"TCPIP" : {
+		"IP": "192.168.0.5",
+		"AddrMW": "0"
+	}
+}
